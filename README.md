@@ -13,7 +13,7 @@
 <br>
 <img src='./src/assets/walkthrough-video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-GIF created with [FreeConvert](https://www.freeconvert.com/)
+GIF created with [Ezgif](https://ezgif.com/)
 
 > [!IMPORTANT]
 > I did, in fact, make this without fully understanding the assignment. As a result, I did this with the intention of replicating the sample community board: food truck favorites. <br><br>
