@@ -14,7 +14,3 @@
 <img src='./src/assets/walkthrough-video.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [Ezgif](https://ezgif.com/)
-
-> [!IMPORTANT]
-> I did, in fact, make this without fully understanding the assignment. As a result, I did this with the intention of replicating the sample community board: food truck favorites. <br><br>
-> This is technically not against the rules; still, I promise to be more creative (and to fully understand the assignments) in the future :(
